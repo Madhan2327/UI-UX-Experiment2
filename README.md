@@ -28,8 +28,8 @@ Both mobile and web layouts are built on fundamental UI components that promote 
 Interaction behaviors across both mobile and web layouts are designed with user-centered principles in mind. Visual feedback mechanisms are implemented throughout the interface—for instance, when a user taps a button, it changes color or exhibits a ripple effect to acknowledge the interaction. Web users experience hover effects on clickable items, helping distinguish active from inactive areas. Affordances are built into the design—buttons appear raised and clickable, input fields are underlined, and tabs slide smoothly, guiding users on what action to take next. Navigation is kept minimal but highly functional. On mobile, a sticky bottom nav ensures primary options are always accessible, while swipe gestures enable smooth transitions between food cards or category tabs. On the web, content dynamically adjusts to screen size, ensuring a seamless experience whether viewed on a desktop or tablet. Accessibility features include high-contrast text, keyboard navigation, image alt texts, and support for screen readers. Usability testing insights guide layout choices such as large touch targets, minimal load time, and simplified checkout flow. Together, these practices support a wide range of users, including those with varying levels of digital literacy.
 
 4) Creating a Brand Logo Using Canva
+<img width="400" height="520" alt="logo" src="https://github.com/user-attachments/assets/f4239896-8003-4786-867d-6b4b8064bb86" />
 
-<img width="500" height="500" alt="FreshBite" src="https://github.com/user-attachments/assets/973f0018-206c-4844-b146-6e227aebe26c" />
 
 ## Result:
 
